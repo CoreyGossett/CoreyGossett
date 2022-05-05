@@ -4,6 +4,7 @@
 - 📫 How to reach me ...
 
 LinkedIn: Corey Gossett
+<br>
 Email: CoreyMGossett@gmail.com
 <!---
 CoreyGossett/CoreyGossett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
