@@ -1,6 +1,6 @@
 - 👋 Hello world, my name is @CoreyGossett
-- 👀 I’m interested in music, video games, and web development
-- 🌱 I’m currently learning web development basics
+- 👀 I’m interested in music, art, video games, and web development
+- 🌱 I’m currently learning game development
 - 📫 How to reach me ...
 
 LinkedIn: Corey Gossett
